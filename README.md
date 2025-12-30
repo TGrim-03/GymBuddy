@@ -18,6 +18,7 @@ Social Media application for gym-related content.
 ## Tech Stack
 - Frontend/Backend: Kotlin
 - Database: Android Room Database
+- Other tools: Gradle
 
 ## Key Features
 - Login/Sign up for users to hold account information
